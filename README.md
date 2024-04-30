@@ -74,11 +74,6 @@ Large language models (LLMs), such as ChatGPT, have achieved remarkable success 
    *Xiaofei Sun, Xiaoya Li, Shengyu Zhang, Shuhe Wang, Fei Wu, Jiwei Li, Tianwei Zhang, Guoyin Wang.* [[abs](https://arxiv.org/abs/2311.01876)], 2023.11
 
 
-1. ****
-   
-   *.* [[abs]()], 
-
-
 ##### Parameter-Tuning Paradigm
 1. **UnifiedABSA: A Unified ABSA Framework Based on Multi-task Instruction Tuning**
    
