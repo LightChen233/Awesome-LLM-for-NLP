@@ -485,9 +485,6 @@ Large language models (LLMs), such as ChatGPT, have achieved remarkable success 
    
    *Hongyuan Lu, Haoyang Huang, Dongdong Zhang, Haoran Yang, Wai Lam, Furu Wei.* [[abs](https://arxiv.org/abs/2305.06575)], 2023.5
 
-1. ****
-   
-   *.* [[abs]()], 
 
 
 ##### Parameter-Tuning Paradigm
