@@ -1,7 +1,6 @@
 
 ## Large Language Models Meet NLP: A Survey
 
-- [💡 Introduction](#-abstract)
 - [📝 Papers](#-papers)
   - [Overview](#overview)
   - [Natural Language Understanding](#natural-language-understanding)
@@ -37,11 +36,6 @@
     - [X-of-thought in LLMs for NLP](#x-of-thought-in-llms-for-nlp)
     - [Hallucination in LLMs for NLP](#hallucination-in-llms-for-nlp)
     - [Safety in LLMs for NLP](#safety-in-llms-for-nlp)
-
-
-## 💡 Introduction
-
-Large language models (LLMs), such as ChatGPT, have achieved remarkable success in natural language processing (NLP) tasks. Nevertheless, there is a lack of systematic investigation into LLMs for NLP. In this study, we conduct a comprehensive review of LLMs for NLP to address the following questions: (1) How are LLMs currently applied to NLP tasks in the literature? (2) Have traditional NLP tasks already been solved? (3) What is the future of the LLMs for NLP? To answer these questions, we take the first step to provide a comprehensive overview of LLMs in NLP. Specifically, we first introduce a novel taxonomy including (1) parameter-frozen application and (2) parameter-tuning application to offer a unified perspective for understanding the current progress of LLMs in NLP. Furthermore, we summarize the new frontiers as well as the corresponding challenges, hoping to spur more future breakthrough research. Finally, we build a public website containing related papers, baseline projects, and leaderboards to help researchers track the latest progress of literature. We hope this work can provide insights into the opportunities and challenges of LLMs in NLP, and serve as a practical resource for constructing effective LLMs in NLP.
 
 ---
 
@@ -734,3 +728,16 @@ Large language models (LLMs), such as ChatGPT, have achieved remarkable success 
    
    *Hao Sun, Zhexin Zhang, Jiawen Deng, Jiale Cheng, Minlie Huang.* [[abs](https://arxiv.org/abs/2304.10436)], 2023.4
 
+
+## Contribution
+Please update the paper information with the following format:
+```
+title: [Title]
+paper: [Conference/Journal/arXiv]
+author: [Authors]
+code: (optional)
+key-point: (optional)
+```
+For any interesting news about LLM for NLP, you can also email [Libo Qin](mailto:lbqin@csu.edu.cn) at [Qiguang Chen](mailto:charleschen2333@gmail.com) to follow and update it at our Awesome-LLM-for-NLP GitHub repo.
+
+Hope everyone enjoy the LLM for NLP future :)
